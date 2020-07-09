@@ -1,0 +1,75 @@
+:root {
+  --grify-0: 0px;
+
+  --grify-1: 1.44287px;
+  --grify-2: 2.33456px;
+  --grify-3: 3.77732px;
+  --grify-4: 6.11171px;
+  --grify-5: 9.88875px;
+  --grify-6: 16px;
+  --grify-7: 25.888px;
+  --grify-8: 41.8868px;
+  --grify-9: 67.7728px;
+  --grify-10: 109.656px;
+  --grify-11: 177.423px;
+
+  --grify-half-1: calc(1.44287px / 2);
+  --grify-half-2: calc(2.33456px / 2);
+  --grify-half-3: calc(3.77732px / 2);
+  --grify-half-4: calc(6.11171px / 2);
+  --grify-half-5: calc(9.88875px / 2);
+  --grify-half-6: calc(16px / 2);
+  --grify-half-7: calc(25.888px / 2);
+  --grify-half-8: calc(41.8868px / 2);
+  --grify-half-9: calc(67.7728px / 2);
+  --grify-half-10: calc(109.656px / 2);
+  --grify-half-11: calc(177.423px / 2);
+
+  --grify-double-1: calc(1.44287px * 2);
+  --grify-double-2: calc(2.33456px * 2);
+  --grify-double-3: calc(3.77732px * 2);
+  --grify-double-4: calc(6.11171px * 2);
+  --grify-double-5: calc(9.88875px * 2);
+  --grify-double-6: calc(16px * 2);
+  --grify-double-7: calc(25.888px * 2);
+  --grify-double-8: calc(41.8868px * 2);
+  --grify-double-9: calc(67.7728px * 2);
+  --grify-double-10: calc(109.656px * 2);
+  --grify-double-11: calc(177.423px * 2);
+
+  --grify-neg-1: -1.44287px;
+  --grify-neg-2: -2.33456px;
+  --grify-neg-3: -3.77732px;
+  --grify-neg-4: -6.11171px;
+  --grify-neg-5: -9.88875px;
+  --grify-neg-6: -16px;
+  --grify-neg-7: -25.888px;
+  --grify-neg-8: -41.8868px;
+  --grify-neg-9: -67.7728px;
+  --grify-neg-10: -109.656px;
+  --grify-neg-11: -177.423px;
+
+  --grify-neg-half-1: calc(-1.44287px / 2);
+  --grify-neg-half-2: calc(-2.33456px / 2);
+  --grify-neg-half-3: calc(-3.77732px / 2);
+  --grify-neg-half-4: calc(-6.11171px / 2);
+  --grify-neg-half-5: calc(-9.88875px / 2);
+  --grify-neg-half-6: calc(-16px / 2);
+  --grify-neg-half-7: calc(-25.888px / 2);
+  --grify-neg-half-8: calc(-41.8868px / 2);
+  --grify-neg-half-9: calc(-67.7728px / 2);
+  --grify-neg-half-10: calc(-109.656px / 2);
+  --grify-neg-half-11: calc(-177.423px / 2);
+
+  --grify-neg-double-1: calc(-1.44287px * 2);
+  --grify-neg-double-2: calc(-2.33456px * 2);
+  --grify-neg-double-3: calc(-3.77732px * 2);
+  --grify-neg-double-4: calc(-6.11171px * 2);
+  --grify-neg-double-5: calc(-9.88875px * 2);
+  --grify-neg-double-6: calc(-16px * 2);
+  --grify-neg-double-7: calc(-25.888px * 2);
+  --grify-neg-double-8: calc(-41.8868px * 2);
+  --grify-neg-double-9: calc(-67.7728px * 2);
+  --grify-neg-double-10: calc(-109.656px * 2);
+  --grify-neg-double-11: calc(-177.423px * 2);
+}

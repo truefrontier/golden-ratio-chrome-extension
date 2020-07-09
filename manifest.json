@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Golden Ratio-ify",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "matches": ["<all_urls>"],
+      "js": ["vendor/jquery-3.5.1.slim.min.js", "content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_title": "Golden Ratio-ify"
+  },
+  "icons": {
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
